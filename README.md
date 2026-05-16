@@ -2,6 +2,7 @@
 
 This is my personal portfolio website created to showcase my projects, technical skills, and development journey. The portfolio features a modern responsive design with smooth animations and an interactive user experience.
 
+Open Now: https://balramtechhub.netlify.app/
 ✨ Features:
 
 * Responsive Web Design
